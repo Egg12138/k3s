@@ -11,6 +11,7 @@
 /.viminfo
 /.lesshst
 /*.log
+/k3s-airgap-images*
 /bin
 /etc
 /build
